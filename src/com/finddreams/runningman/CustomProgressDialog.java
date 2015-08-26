@@ -21,7 +21,7 @@ import com.example.runningman.R;
  */
 public class CustomProgressDialog extends ProgressDialog {
 
-	private AnimationDrawable mAnimation;  
+	private AnimationDrawable mAnimation;    
 	private Context mContext;
 	private ImageView mImageView;
 	private String mLoadingTip;
