@@ -2,7 +2,6 @@
     package="com.example.runningman"
     android:versionCode="1"
     android:versionName="6.0" >
-
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="21" />
