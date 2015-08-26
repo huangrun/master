@@ -23,7 +23,7 @@ public class CustomProgressDialog extends ProgressDialog {
 
 	private AnimationDrawable mAnimation;    
 	private Context mContext;
-	private ImageView mImageView;
+	private ImageView mImageView; 
 	private String mLoadingTip;
 	//
 	private TextView mLoadingTv;
